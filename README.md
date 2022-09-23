@@ -27,7 +27,7 @@ rm -rf project/vendor
 
 # Install dependencies and update composer
 composer selfupdate
-composer update
+composer install
 
 ```
 
